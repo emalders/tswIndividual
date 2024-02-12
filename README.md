@@ -1,1 +1,3 @@
 # tswIndividual
+
+update the readme
